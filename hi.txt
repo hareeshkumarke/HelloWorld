@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 3455-A8CF
+
+ Directory of C:\Users\haree\Desktop\JavaProject1
+
+09/27/2019  05:31 PM    <DIR>          .
+09/27/2019  05:31 PM    <DIR>          ..
+09/27/2019  05:31 PM               675 Hello.class
+09/27/2019  04:57 PM               146 Hello.java
+09/27/2019  05:31 PM                 0 hi.txt
+               3 File(s)            821 bytes
+               2 Dir(s)  96,670,453,760 bytes free
